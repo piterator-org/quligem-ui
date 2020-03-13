@@ -29,8 +29,21 @@
 .right{
     text-align: right;
 }
+.link{
+    color: rgb(33,133,208);
+    text-decoration: underline;
+    cursor: pointer;
+}
+.link:hover{
+    color: rgb(0,93,168)!important;
+    text-decoration: underline;
+}
+.link:visited{
+    color: rgb(33,133,208);
+    text-decoration: underline;
+}
 .red{
-    color: rgb(219,40,40)!important;
+    color: rgb(219,40,40);
     border-color: rgb(219,40,40);
 }
 .button.reversal.red{
@@ -46,11 +59,14 @@
     border-color: rgb(179,0,0);
     color: rgb(248, 248, 248)!important;
 }
+.link.red{
+    color: rgb(219,40,40);
+}
 .link.red:visited{
-    color: rgb(219,40,40)!important;
+    color: rgb(219,40,40);
 }
 .orange{
-    color: rgb(242,113,28)!important;
+    color: rgb(242,113,28);
     border-color: rgb(242,113,28);
 }
 .button.reversal.orange{
@@ -66,11 +82,14 @@
     border-color: rgb(202,73,0);
     color: rgb(248, 248, 248)!important;
 }
+.link.orange{
+    color: rgb(242,113,28);
+}
 .link.orange:visited{
-    color: rgb(242,113,28)!important;
+    color: rgb(242,113,28);
 }
 .yellow{
-    color: rgb(251,189,8)!important;
+    color: rgb(251,189,8);
     border-color: rgb(251,189,8);
 }
 .button.reversal.yellow{
@@ -87,10 +106,10 @@
     color: rgb(248, 248, 248)!important;
 }
 .link.yellow:visited{
-    color: rgb(251,189,8)!important;
+    color: rgb(251,189,8);
 }
 .olive{
-    color: rgb(181,204,24)!important;
+    color: rgb(181,204,24);
     border-color: rgb(181,204,24);
 }
 .button.reversal.olive{
@@ -106,11 +125,14 @@
     border-color: rgb(141,164,0);
     color: rgb(248, 248, 248)!important;
 }
+.link.olive{
+    color: rgb(181,204,24);
+}
 .link.olive:visited{
-    color: rgb(181,204,24)!important;
+    color: rgb(181,204,24);
 }
 .green{
-    color: rgb(33,186,69)!important;
+    color: rgb(33,186,69);
     border-color: rgb(33,186,69);
 }
 .button.reversal.green{
@@ -126,11 +148,14 @@
     border-color: rgb(0,146,29);
     color: rgb(248, 248, 248)!important;
 }
+.link.green{
+    color: rgb(33,186,69);
+}
 .link.green:visited{
-    color: rgb(33,186,69)!important;
+    color: rgb(33,186,69);
 }
 .teal{
-    color: rgb(0,181,173)!important;
+    color: rgb(0,181,173);
     border-color: rgb(0,181,173);
 }
 .button.reversal.teal{
@@ -146,11 +171,14 @@
     border-color: rgb(0,141,133);
     color: rgb(248, 248, 248)!important;
 }
+.link.teal{
+    color: rgb(0,181,173);
+}
 .link.teal:visited{
-    color: rgb(0,181,173)!important;
+    color: rgb(0,181,173);
 }
 .blue{
-    color: rgb(33,133,208)!important;
+    color: rgb(33,133,208);
     border-color: rgb(33,133,208);
 }
 .button.reversal.blue{
@@ -166,11 +194,14 @@
     border-color: rgb(0,93,168);
     color: rgb(248, 248, 248)!important;
 }
+.link.blue{
+    color: rgb(33,133,208);
+}
 .link.blue:visited{
-    color: rgb(33,133,208)!important;
+    color: rgb(33,133,208);
 }
 .purple{
-    color: rgb(163,51,200)!important;
+    color: rgb(163,51,200);
     border-color: rgb(163,51,200);
 }
 .button.reversal.purple{
@@ -187,10 +218,10 @@
     color: rgb(248, 248, 248)!important;
 }
 .link.purple:visited{
-    color: rgb(163,51,200)!important;
+    color: rgb(163,51,200);
 }
 .pink{
-    color: rgb(224,57,151)!important;
+    color: rgb(224,57,151);
     border-color: rgb(224,57,151);
 }
 .button.reversal.pink{
@@ -206,11 +237,14 @@
     border-color: rgb(184,17,111);
     color: rgb(248, 248, 248)!important;
 }
+.link.pink{
+    color: rgb(224,57,151);
+}
 .link.pink:visited{
-    color: rgb(224,57,151)!important;
+    color: rgb(224,57,151);
 }
 .brown{
-    color: rgb(165,103,63)!important;
+    color: rgb(165,103,63);
     border-color: rgb(165,103,63);
 }
 .button.reversal.brown{
@@ -226,11 +260,14 @@
     border-color: rgb(125,63,23);
     color: rgb(248, 248, 248)!important;
 }
+.link.brown{
+    color: rgb(165,103,63);
+}
 .link.brown:visited{
-    color: rgb(165,103,63)!important;
+    color: rgb(165,103,63);
 }
 .grey{
-    color: rgb(118,118,118)!important;
+    color: rgb(118,118,118);
     border-color: rgb(118,118,118);
 }
 .button.reversal.grey{
@@ -246,11 +283,14 @@
     border-color: rgb(78,78,78);
     color: rgb(248, 248, 248)!important;
 }
+.link.grey{
+    color: rgb(118,118,118);
+}
 .link.grey:visited{
-    color: rgb(118,118,118)!important;
+    color: rgb(118,118,118);
 }
 .black{
-    color: rgb(27,28,29)!important;
+    color: rgb(27,28,29);
     border-color: rgb(27,28,29);
 }
 .button.reversal.black{
@@ -266,8 +306,11 @@
     border-color: rgb(49,51,52);
     color: rgb(248, 248, 248)!important;
 }
+.link.black{
+    color: rgb(27,28,29);
+}
 .link.black:visited{
-    color: rgb(27,28,29)!important;
+    color: rgb(27,28,29);
 }
 .button{
     display: inline-flex;
@@ -283,19 +326,6 @@
     align-items: center;
     font-weight: inherit;
     cursor: pointer;
-}
-.link{
-    color: rgb(33,133,208);
-    text-decoration: underline;
-    cursor: pointer;
-}
-.link:hover{
-    color: rgb(13,113,188);
-    text-decoration: underline;
-}
-.link:visited{
-    color: rgb(33,133,208);
-    text-decoration: underline;
 }
 .divider{
     display: block;
