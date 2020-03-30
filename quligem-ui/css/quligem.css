@@ -376,6 +376,7 @@ body{
     padding-right: 18%;
     z-index: 9999;
     box-sizing: border-box;
+    margin-bottom: .3em;
 }
 .nav>.item{
     margin-top: .65em;
