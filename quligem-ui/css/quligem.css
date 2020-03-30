@@ -395,6 +395,7 @@ body{
 }
 .nav>.item.selected{
     color: #FFFFFF;
+    cursor: default;
 }
 .nav>.item.disable{
     color: #999999;
