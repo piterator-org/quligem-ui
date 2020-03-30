@@ -326,6 +326,7 @@
     align-items: center;
     font-weight: inherit;
     cursor: pointer;
+    text-decoration: none;
 }
 .divider{
     display: block;
@@ -387,6 +388,7 @@ body{
     cursor: pointer;
     margin-left: .4em;
     margin-right: .4em;
+    text-decoration: none;
 }
 .nav>.item:hover{
     color: #FFFFFF;
