@@ -1,3 +1,5 @@
-# Quligem UI ``αlpha``
+# Quligem UI
+### Quligem UI ``αlpha``
 ### Made By Piterator, Bohanjun, ForkKILLET...
-## The Litest UI, which is **only 1 css file**!!!
+What is Quligem UI?
+> The Litest UI, which is **only 1 css file**!!!
