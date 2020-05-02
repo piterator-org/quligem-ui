@@ -5,7 +5,7 @@
 *{
     font-family: "Microsoft Yahei", "Consolas", "Inconsolata", "Monaco", "Monofur", "Courier", monospace;
     font-weight: 400;
-	position: relative;
+    position: relative;
 }
 .container{
     width: 72%;
@@ -349,7 +349,7 @@
     text-decoration: none;
 }
 .button.big{
-	font-size: 1.5em;
+    font-size: 1.5em;
     min-width: 7.8em;
     padding-left: 1.2em;
     padding-right: 1.2em;
@@ -357,7 +357,7 @@
     margin-bottom: .8em;
 }
 .button.large{
-	font-size: 2em;
+    font-size: 2em;
     min-width: 9.4em;
     padding-left: 1.8em;
     padding-right: 1.8em;
@@ -375,7 +375,7 @@
     display: inline-block;
     height: auto!important;
     width: 1px!important;
-	position: absolute;
+    position: absolute;
     top: 0;
     bottom: 0;
     background-color: rgb(158,158,158);
