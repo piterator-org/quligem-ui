@@ -200,6 +200,26 @@
 .link.blue:visited{
     color: rgb(33,133,208);
 }
+.violet{
+    color: rgb(100,53,201);
+    border-color: rgb(100,53,201);
+}
+.button.reversal.violet{
+    background-color: rgb(100,53,201)!important;
+    border-color: rgb(100,53,201);
+    color: rgb(248, 248, 248)!important;
+}
+.link.violet:hover,.button.violet:hover{
+    color: rgb(60,13,161)!important;
+}
+.button.reversal.violet:hover{
+    background-color: rgb(60,13,161)!important;
+    border-color: rgb(60,13,161);
+    color: rgb(248, 248, 248)!important;
+}
+.link.violet:visited{
+    color: rgb(100,53,201);
+}
 .purple{
     color: rgb(163,51,200);
     border-color: rgb(163,51,200);
@@ -328,6 +348,20 @@
     cursor: pointer;
     text-decoration: none;
 }
+.button.big{
+    min-width: 9.2em;
+    padding-left: 1.2em;
+    padding-right: 1.2em;
+    height: 3.6em;
+    margin-bottom: .8em;
+}
+.button.large{
+    min-width: 12.4em;
+    padding-left: 2.4em;
+    padding-right: 2.4em;
+    height: 7.2em;
+    margin-bottom: 1.6em;
+}
 .divider{
     display: block;
     height: 1px;
@@ -370,7 +404,7 @@ body{
     position: fixed;
     top: 0;
     width: 100%;
-    background-color: #373737;
+    background-color: #303840;
     margin: auto;
     height: 3em;
     padding-left: 18%;
