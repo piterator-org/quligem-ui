@@ -349,18 +349,20 @@
     text-decoration: none;
 }
 .button.big{
-    min-width: 9.2em;
+	font-size: 1.5em;
+    min-width: 7.8em;
     padding-left: 1.2em;
     padding-right: 1.2em;
-    height: 3.6em;
+    height: 2.4em;
     margin-bottom: .8em;
 }
 .button.large{
-    min-width: 12.4em;
-    padding-left: 2.4em;
-    padding-right: 2.4em;
-    height: 7.2em;
-    margin-bottom: 1.6em;
+	font-size: 2em;
+    min-width: 9.4em;
+    padding-left: 1.8em;
+    padding-right: 1.8em;
+    height: 3.6em;
+    margin-bottom: 1.2em;
 }
 .divider{
     display: block;
